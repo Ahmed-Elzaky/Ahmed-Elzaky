@@ -5,7 +5,7 @@
 
 
 ### Languages and Tools
-<kbd>
+<!-- <kbd> -->
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="imgs/c++.png" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="imgs/html5.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="imgs/css3.svg" />
@@ -13,7 +13,7 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="imgs/jquery.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="imgs/github.png" />
-</kbd>
+<!-- </kbd> -->
 
 <br />
 <br />
@@ -29,9 +29,10 @@
   <br />
   <figcaption><a href="https://github.com/Ahmed-Elzaky/Template-Zero">Template-Zero</a></figcaption>
 </figure> -->
-<kbd><a href="https://ahmed-elzaky.github.io/Template-Zero/"><img width="49.5%" alt="Template One" src="imgs/template-zero.png" /></a>
+<!-- <kbd> -->
+<a href="https://ahmed-elzaky.github.io/Template-Zero/"><img width="49.5%" alt="Template One" src="imgs/template-zero.png" /></a>
 <a href="https://ahmed-elzaky.github.io/Template-Zero/"><img width="49.5%" alt="Template One" src="imgs/template-one.png" /></a>
- </kbd>
+<!--  </kbd> -->
 
 <br />
 <br />
