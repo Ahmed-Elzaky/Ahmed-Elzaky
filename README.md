@@ -13,7 +13,7 @@
 
 ### Top Projects' Demos
 <figure>
-  <a href="https://ahmed-elzaky.github.io/Template-Zero/"><img width="25%" alt="Template Zero" src="imgs/template-zero.png" /></a>
+  <a href="https://ahmed-elzaky.github.io/Template-Zero/"><img width="50%" alt="Template Zero" src="imgs/template-zero.png" /></a>
   <br />
   <figcaption><a href="https://github.com/Ahmed-Elzaky/Template-Zero">Template Zero</a></figcaption>
 </figure>
