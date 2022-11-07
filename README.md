@@ -12,3 +12,7 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="imgs/github1.png" />
 <br />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaky&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
