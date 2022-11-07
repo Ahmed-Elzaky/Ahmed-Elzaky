@@ -10,7 +10,10 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="imgs/github1.png" />
 <br />
-<br />
+
+# 
+#### Top Projects' Demos
+<p align="center"><a href="imgs/template-zero.png"><img width="50%" alt="Template Zero" src="./assets/gh-readme-header.png" /></a></p>
 
 # 
 #### Top Repositories
