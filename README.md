@@ -13,11 +13,15 @@
 
 # 
 #### Top Projects' Demos
-<p align="center"><a href="imgs/template-zero.png"><img width="50%" alt="Template Zero" src="./assets/gh-readme-header.png" /></a></p>
+<figure>
+  <a href="https://ahmed-elzaky.github.io/Template-Zero/"><img width="25%" alt="Template Zero" src="imgs/template-zero.png" /></a>
+  <br />
+  <figcaption><a href="https://github.com/Ahmed-Elzaky/Template-Zero">Template Zero</a></figcaption>
+</figure>
 
 # 
 #### Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=Template-Zero)](https://ahmed-elzaky.github.io/Template-Zero/)
 
 # 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaky&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaky&layout=compact)
