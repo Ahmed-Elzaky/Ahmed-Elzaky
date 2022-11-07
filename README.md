@@ -1,10 +1,8 @@
 # Ahmed Elzaky
-
 **`Front End Developer (Digital Craftsman)`**
 
----
-### 🧰 Languages and Tools
-
+# 
+#### 🧰 Languages and Tools
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="imgs/c++.png" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -12,7 +10,11 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="imgs/github1.png" />
 <br />
+<br />
 
----
+# 
+#### Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=Template-Zero)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaky&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+# 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
