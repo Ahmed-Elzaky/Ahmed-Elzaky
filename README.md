@@ -5,6 +5,7 @@
 
 
 ### Languages and Tools
+<kbd>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="imgs/c++.png" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="imgs/html5.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="imgs/css3.svg" />
@@ -12,12 +13,13 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="imgs/jquery.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="imgs/github.png" />
+</kbd>
 
 <br />
 <br />
 
 ### Top Projects' Demos
-<figure>
+<!-- <figure>
   <a href="https://ahmed-elzaky.github.io/Template-Zero/"><img width="50%" alt="Template Zero" src="imgs/template-zero.png" /></a>
   <br />
   <figcaption><a href="https://github.com/Ahmed-Elzaky/Template-Zero">Template-Zero</a></figcaption>
@@ -26,13 +28,17 @@
   <a href="https://ahmed-elzaky.github.io/Template-Zero/"><img width="50%" alt="Template One" src="imgs/template-one.png" /></a>
   <br />
   <figcaption><a href="https://github.com/Ahmed-Elzaky/Template-Zero">Template-Zero</a></figcaption>
-</figure>
+</figure> -->
+<kbd><a href="https://ahmed-elzaky.github.io/Template-Zero/"><img width="49.5%" alt="Template One" src="imgs/template-zero.png" /></a>
+<a href="https://ahmed-elzaky.github.io/Template-Zero/"><img width="49.5%" alt="Template One" src="imgs/template-one.png" /></a>
+ </kbd>
 
 <br />
 <br />
 
 ### Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=Template-Zero&theme=dark)](https://ahmed-elzaky.github.io/Template-Zero/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=Template-One&theme=dark)](https://ahmed-elzaky.github.io/Template-One/)
 
 <br />
 <br />
