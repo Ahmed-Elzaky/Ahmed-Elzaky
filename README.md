@@ -22,6 +22,11 @@
   <br />
   <figcaption><a href="https://github.com/Ahmed-Elzaky/Template-Zero">Template-Zero</a></figcaption>
 </figure>
+<figure>
+  <a href="https://ahmed-elzaky.github.io/Template-Zero/"><img width="50%" alt="Template One" src="imgs/template-one.png" /></a>
+  <br />
+  <figcaption><a href="https://github.com/Ahmed-Elzaky/Template-Zero">Template-Zero</a></figcaption>
+</figure>
 
 <br />
 <br />
