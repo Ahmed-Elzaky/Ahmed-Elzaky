@@ -32,6 +32,7 @@
 <!-- <kbd> -->
 <a href="https://ahmed-elzaky.github.io/Template-Zero/"><img width="49.5%" alt="Template Zero" src="imgs/template-zero.png" /></a>
 <a href="https://ahmed-elzaky.github.io/Template-One/"><img width="49.5%" alt="Template One" src="imgs/template-one.png" /></a>
+<a href="https://ahmed-elzaky.github.io/Template-Two/"><img width="49.5%" alt="Template Two" src="imgs/template-Two.png" /></a>
 <!--  </kbd> -->
 
 <br />
@@ -40,6 +41,7 @@
 ### Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=Template-Zero&theme=dark)](https://github.com/Ahmed-Elzaky/Template-Zero/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=Template-One&theme=dark)](https://github.com/Ahmed-Elzaky/Template-One/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=Template-Two&theme=dark)](https://github.com/Ahmed-Elzaky/Template-Two/)
 
 <br />
 <br />
