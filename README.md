@@ -45,7 +45,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=Template-Zero&theme=dark)](https://github.com/Ahmed-Elzaky/Template-Zero/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=Template-One&theme=dark)](https://github.com/Ahmed-Elzaky/Template-One/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=Template-Two&theme=dark)](https://github.com/Ahmed-Elzaky/Template-Two/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=Template-Three&theme=dark)](https://github.com/Ahmed-Elzaky/Template-Three/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=Tepmlate-Three&theme=dark)](https://github.com/Ahmed-Elzaky/Tepmlate-Three/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=rock-paper-scissors&theme=dark)](https://github.com/Ahmed-Elzaky/rock-paper-scissors)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=cat-photo-gallery&theme=dark)](https://github.com/Ahmed-Elzaky/cat-photo-gallery)
 
