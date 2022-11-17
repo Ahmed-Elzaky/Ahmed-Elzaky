@@ -33,7 +33,8 @@
 <a href="https://ahmed-elzaky.github.io/Template-Zero/"><img width="49.5%" alt="Template Zero" src="imgs/template-zero.png" /></a>
 <a href="https://ahmed-elzaky.github.io/Template-One/"><img width="49.5%" alt="Template One" src="imgs/template-one.png" /></a>
 <a href="https://ahmed-elzaky.github.io/Template-Two/"><img width="49.5%" alt="Template Two" src="imgs/template-Two.png" /></a>
-<a href="https://ahmed-elzaky.github.io/rock-paper-scissors/"><img width="49.5%" alt="Template Two" src="imgs/rock-paper-scissors.png" /></a>
+<a href="https://ahmed-elzaky.github.io/Template-Three/"><img width="49.5%" alt="Template Three" src="imgs/template-Three.png" /></a>
+<a href="https://ahmed-elzaky.github.io/rock-paper-scissors/"><img width="49.5%" alt="rock paper scissors" src="imgs/rock-paper-scissors.png" /></a>
 <a href="https://ahmed-elzaky.github.io/cat-photo-gallery/"><img width="49.5%" alt="cat photo gallery" src="imgs/cat-photo-gallery.png" /></a>
 <!--  </kbd> -->
 
@@ -44,6 +45,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=Template-Zero&theme=dark)](https://github.com/Ahmed-Elzaky/Template-Zero/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=Template-One&theme=dark)](https://github.com/Ahmed-Elzaky/Template-One/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=Template-Two&theme=dark)](https://github.com/Ahmed-Elzaky/Template-Two/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=Template-Three&theme=dark)](https://github.com/Ahmed-Elzaky/Template-Three/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=rock-paper-scissors&theme=dark)](https://github.com/Ahmed-Elzaky/rock-paper-scissors)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Elzaky&repo=cat-photo-gallery&theme=dark)](https://github.com/Ahmed-Elzaky/cat-photo-gallery)
 
