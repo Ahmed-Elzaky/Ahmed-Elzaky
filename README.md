@@ -7,7 +7,7 @@
 
 ### Languages and Tools
 <!-- <kbd> -->
-<a href="https://github.com/Ahmed-Elzaky" title="GitHub Profile"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="imgs/github.png" /></a>
+<a href="https://github.com/Ahmed-Elzaky" title="GitHub Profile"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="imgs/github.png"/></a>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="imgs/c++.png" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="imgs/html5.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="imgs/css3.svg" />
@@ -31,12 +31,12 @@
   <figcaption><a href="https://github.com/Ahmed-Elzaky/Template-Zero">Template-Zero</a></figcaption>
 </figure> -->
 <!-- <kbd> -->
-<a href="https://ahmed-elzaky.github.io/Template-Three/"><img width="49.5%" alt="Template Three" src="imgs/template-Three.png" /></a>
-<a href="https://ahmed-elzaky.github.io/Template-Two/"><img width="49.5%" alt="Template Two" src="imgs/template-Two.png" /></a>
-<a href="https://ahmed-elzaky.github.io/Template-One/"><img width="49.5%" alt="Template One" src="imgs/template-one.png" /></a>
-<a href="https://ahmed-elzaky.github.io/Template-Zero/"><img width="49.5%" alt="Template Zero" src="imgs/template-zero.png" /></a>
-<a href="https://ahmed-elzaky.github.io/rock-paper-scissors/"><img width="49.5%" alt="rock paper scissors" src="imgs/rock-paper-scissors.png" /></a>
-<a href="https://ahmed-elzaky.github.io/cat-photo-gallery/"><img width="49.5%" alt="cat photo gallery" src="imgs/cat-photo-gallery.png" /></a>
+<a href="https://ahmed-elzaky.github.io/Template-Three/" title="Open Live Demo"><img width="49.5%" alt="Template Three" src="imgs/template-Three.png" /></a>
+<a href="https://ahmed-elzaky.github.io/Template-Two/" title="Open Live Demo"><img width="49.5%" alt="Template Two" src="imgs/template-Two.png" /></a>
+<a href="https://ahmed-elzaky.github.io/Template-One/" title="Open Live Demo"><img width="49.5%" alt="Template One" src="imgs/template-one.png" /></a>
+<a href="https://ahmed-elzaky.github.io/Template-Zero/" title="Open Live Demo"><img width="49.5%" alt="Template Zero" src="imgs/template-zero.png" /></a>
+<a href="https://ahmed-elzaky.github.io/rock-paper-scissors/" title="Open Live Demo"><img width="49.5%" alt="rock paper scissors" src="imgs/rock-paper-scissors.png" /></a>
+<a href="https://ahmed-elzaky.github.io/cat-photo-gallery/" title="Open Live Demo"><img width="49.5%" alt="cat photo gallery" src="imgs/cat-photo-gallery.png" /></a>
 <!--  </kbd> -->
 
 <br />
