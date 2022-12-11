@@ -1,19 +1,19 @@
 
 **`Front End Developer (Digital Craftsman)`**
-<a herf="https://github.com/Ahmed-Elzaky">
+<a href="https://github.com/Ahmed-Elzaky">
 <img align="left" alt="github-character" width="25px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/60613644/200343161-d5cd74d5-790f-43a6-a902-4d54d3e2c775.png" />
 </a>
 
 
 ### Languages and Tools
 <!-- <kbd> -->
+<a href="https://github.com/Ahmed-Elzaky"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="imgs/github.png" /></a>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="imgs/c++.png" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="imgs/html5.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="imgs/css3.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="imgs/jquery.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<a herf="https://github.com/Ahmed-Elzaky"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="imgs/github.png" /></a>
 <!-- </kbd> -->
 
 <br />
