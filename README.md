@@ -35,7 +35,7 @@
 <a href="https://ahmed-elzaky.github.io/Template-Two/" title="Open Live Demo"><img width="49.5%" alt="Template Two" src="imgs/template-Two.png" /></a>
 <a href="https://ahmed-elzaky.github.io/Template-One/" title="Open Live Demo"><img width="49.5%" alt="Template One" src="imgs/template-one.png" /></a>
 <a href="https://ahmed-elzaky.github.io/Template-Zero/" title="Open Live Demo"><img width="49.5%" alt="Template Zero" src="imgs/template-zero.png" /></a>
-<a href="https://ahmed-elzaky.github.io/rock-paper-scissors/" title="Open Live Demo"><img width="49.5%" alt="rock paper scissors" src="imgs/rock-paper-scissors.png" /></a>
+<a href="https://ahmed-elzaky.github.io/rock-paper-scissors/" title="Play Rock-Paper-Scissors"><img width="49.5%" alt="rock paper scissors" src="imgs/rock-paper-scissors.png" /></a>
 <a href="https://ahmed-elzaky.github.io/cat-photo-gallery/" title="Open Live Demo"><img width="49.5%" alt="cat photo gallery" src="imgs/cat-photo-gallery.png" /></a>
 <!--  </kbd> -->
 
